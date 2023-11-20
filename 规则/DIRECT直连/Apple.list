@@ -1,22 +1,22 @@
-HOST-SUFFIX, aaplimg.com, Apple
-HOST-SUFFIX, apple-cloudkit.com, Apple
-HOST-SUFFIX, apple-livephotoskit.com, Apple
-HOST-SUFFIX, apple-mapkit.com, Apple
-HOST-SUFFIX, apple-support.akadns.net, Apple
-HOST-SUFFIX, apple.co, Apple
-HOST-SUFFIX, apple.com, Apple
-HOST-SUFFIX, apple.com.akadns.net, Apple
-HOST-SUFFIX, apple.com.cn, Apple
-HOST-SUFFIX, apple.com.edgekey.net, Apple
-HOST-SUFFIX, applemusic.com, Apple
-HOST-SUFFIX, appstore.com, Apple
-HOST-SUFFIX, apzones.com, Apple
-HOST-SUFFIX, cdn-apple.com, Apple
-HOST-SUFFIX, icloud-content.com, Apple
-HOST-SUFFIX, icloud.com, Apple
-HOST-SUFFIX, icloud.com.akadns.net, Apple
-HOST-SUFFIX, icloud.com.cn, Apple
-HOST-SUFFIX, itunes.com, Apple
-HOST-SUFFIX, me.com, Apple
-HOST-SUFFIX, mzstatic.com, Apple
-HOST-SUFFIX, smoot.apple.cn, Apple
+.aaplimg.com
+.apple-cloudkit.com
+.apple-livephotoskit.com
+.apple-mapkit.com
+.apple-support.akadns.net
+.apple.co
+.apple.com
+.apple.com.akadns.net
+.apple.com.cn
+.apple.com.edgekey.net
+.applemusic.com
+.appstore.com
+.apzones.com
+.cdn-apple.com
+.icloud-content.com
+.icloud.com
+.icloud.com.akadns.net
+.icloud.com.cn
+.itunes.com
+.me.com
+.mzstatic.com
+.smoot.apple.cn
