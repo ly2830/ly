@@ -1,6 +1,3 @@
-# https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Filter/Extra/Apple/Apple.list
-# 2022-02-12
-
 HOST-SUFFIX, aaplimg.com, Apple
 HOST-SUFFIX, apple-cloudkit.com, Apple
 HOST-SUFFIX, apple-livephotoskit.com, Apple
