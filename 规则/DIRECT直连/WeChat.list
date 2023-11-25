@@ -1,3 +1,9 @@
+#规则数量:30
+#不支持的规则数量:0
+#已排除的规则数量:0
+
+#-----------------以下为解析后的规则-----------------#
+
 DOMAIN,dl.wechat.com
 DOMAIN,sgfindershort.wechat.com
 DOMAIN,sgilinkshort.wechat.com
